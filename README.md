@@ -1,8 +1,14 @@
 # Formularios
 
 ## Funcionalidades
-| Funcionalidades |
+| Primer encabezado | Segundo encabezado |
+| ------------- | ------------- |
+| Contenido de la celda  | Contenido de la celda  |
+| Contenido de la celda  | Contenido de la celda  |
 
+
+| Funcionalidades |
+| ------------- |
 |   Diferentes aproximaciones que tiene angular para trabajar formularios.|
 |   Profundizaremos en el uso del ngModel.|
 |   Utilizar las validaciones pre fabricadas.|
