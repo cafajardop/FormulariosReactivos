@@ -6,8 +6,8 @@ import { ReactiveComponent } from './pages/reactive/reactive.component';
 
 const routes: Routes = [
   {path:'template', component:TemplateComponent},
-  {path:'reactivos', component:ReactiveComponent},
-  {path:'**', pathMatch:'full', redirectTo:'template'},
+  {path:'reactivo', component:ReactiveComponent},
+  {path:'**', pathMatch:'full', redirectTo:'reactivo'},
 ];
 
 @NgModule({
