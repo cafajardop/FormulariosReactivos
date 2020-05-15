@@ -1,18 +1,19 @@
 # Formularios
 
 ## Funcionalidades
+| Funcionalidades |
 
-1 Diferentes aproximaciones que tiene angular para trabajar formularios.
-2 Profundizaremos en el uso del ngModel.
-3 Utilizar las validaciones pre fabricadas.
-4 Crear validaciones personalizadas.
-5 Crear validaciones asíncronas.
-6 Realizar un submit utilizando el ngSubmit.
-7 Postear información únicamente cuando el formulario es valido,
-8 Crear formularios del lado del componente.
-9 Cargar información por defecto a los formularios.
-10 Subscribirnos a los cambios de los valores de los formularios.
-11 Entre otras cosas bien interesantes.
+|   Diferentes aproximaciones que tiene angular para trabajar formularios.|
+|   Profundizaremos en el uso del ngModel.|
+|   Utilizar las validaciones pre fabricadas.|
+|   Crear validaciones personalizadas.|
+|   Crear validaciones asíncronas.|
+|   Realizar un submit utilizando el ngSubmit.|
+|   Postear información únicamente cuando el formulario es valido,|
+|   Crear formularios del lado del componente.|
+|   Cargar información por defecto a los formularios.|
+|   Subscribirnos a los cambios de los valores de los formularios.|
+|   Entre otras cosas bien interesantes.|
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
